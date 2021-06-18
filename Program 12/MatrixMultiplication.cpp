@@ -1,3 +1,5 @@
+//Write a program for multiplication of two matrices using OOP.
+
 #include<iostream>
 using namespace std;
 

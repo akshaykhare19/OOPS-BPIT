@@ -1,3 +1,5 @@
+//Write a program of Parameterized Constructor
+
 #include <iostream>  
 using namespace std;  
 class A  

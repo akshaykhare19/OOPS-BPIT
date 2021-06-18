@@ -1,3 +1,5 @@
+//Write a program to raise an exception if any attempt is made to refer to an element whose index is beyond the array size. 
+
 #include<iostream>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//Write a program of Heirarchichal Inheritance
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//Write a program of Multiple Inheritance
+
 #include <iostream>
 using namespace std;
 

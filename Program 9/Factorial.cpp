@@ -1,3 +1,5 @@
+//Write a program of factorial of a given number 
+
 #include<iostream>
 using namespace std;
 class Check{

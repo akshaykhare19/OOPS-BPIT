@@ -1,3 +1,5 @@
+//Write a program of palindrome number.
+
 #include<iostream>
 using namespace std;
 int reverse(int n){

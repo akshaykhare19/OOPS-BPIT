@@ -1,3 +1,5 @@
+//Write a program of destructor
+
 #include<iostream>
 using namespace std;
 class Demo {

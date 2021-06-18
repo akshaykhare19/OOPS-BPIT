@@ -1,3 +1,5 @@
+//1Write a program to find the greatest of two given numbers in two different classes using friend function.
+
 #include<iostream>
 using namespace std;
 class B;

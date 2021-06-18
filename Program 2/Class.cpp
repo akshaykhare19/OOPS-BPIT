@@ -1,3 +1,5 @@
+//Write a program to create a class and it's object
+
 #include<iostream>
 using namespace std;
 // creating class Student

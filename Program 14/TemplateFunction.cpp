@@ -1,3 +1,5 @@
+//Write a program to define the function template for calculating the square of given numbers with different data types. 
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
